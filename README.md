@@ -125,8 +125,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
  7.) Re-enable ICMP traffic for the Network Security Group your Ubuntu VM is using
 Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity (should start working)
 Stop the ping activity
- 
- 8.) The next thing we are going to do is Observe SSH Traffic.
+
  
  
  
